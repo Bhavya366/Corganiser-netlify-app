@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Corganiser-netlify-app/static/css/main.502458af.css",
+    "main.js": "/Corganiser-netlify-app/static/js/main.4b19f761.js",
+    "index.html": "/Corganiser-netlify-app/index.html",
+    "main.502458af.css.map": "/Corganiser-netlify-app/static/css/main.502458af.css.map",
+    "main.4b19f761.js.map": "/Corganiser-netlify-app/static/js/main.4b19f761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502458af.css",
+    "static/js/main.4b19f761.js"
+  ]
+}
